@@ -39,5 +39,10 @@ public class Main {
         System.out.println("commit test");
         System.out.println("jihoon");
 
+        System.out.println("*****************************");
+        System.out.println("마스터에서 브랜치 안따고 실수해보기");
+        System.out.println("*****************************");
+
+
     }
 }
