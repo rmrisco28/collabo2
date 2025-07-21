@@ -56,5 +56,7 @@ public class Main {
         System.out.println(" new branch");
         System.out.println("hahahoho");
 
+        System.out.println("브랜치 먼저 커밋해보기");
+
     }
 }
