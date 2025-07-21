@@ -13,6 +13,10 @@ public class Main {
             i = i + 2;
         }
 
+        System.out.println("hello github");
+        for (int j = 0; j < 10; j++) {
+            System.out.print(j + ",");
+        }
 
     }
 }
