@@ -36,5 +36,10 @@ public class Main {
             break;
         }
 
+        System.out.println("*****************************");
+        System.out.println("마스터에서 브랜치 안따고 실수해보기");
+        System.out.println("*****************************");
+
+
     }
 }
