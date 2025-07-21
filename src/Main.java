@@ -52,5 +52,9 @@ public class Main {
         System.out.println("브랜치 안따고 마스터에서 push");
         System.out.println("-------------------------");
 
+        System.out.println("commit test3");
+        System.out.println(" new branch");
+        System.out.println("hahahoho");
+
     }
 }
