@@ -9,7 +9,7 @@ public class Main {
         System.out.println("팀장이 작성");
         int i = 1;
         while (i < 10) {
-            System.out.println(i);
+            System.out.print(i);
             i = i + 2;
         }
 
@@ -21,6 +21,12 @@ public class Main {
         System.out.println("hello github");
         for (int j = 0; j < 10; j++) {
             System.out.print(j + ",");
+        }
+
+        System.out.println("hello github2");
+        while (true) {
+            System.out.println("while");
+            break;
         }
 
     }
