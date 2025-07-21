@@ -18,6 +18,10 @@ public class Main {
             System.out.println("for-j 기능 추가");
         }
 
+        System.out.println("hello github");
+        for (int j = 0; j < 10; j++) {
+            System.out.print(j + ",");
+        }
 
     }
 }
