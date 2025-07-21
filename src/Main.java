@@ -13,6 +13,11 @@ public class Main {
             i = i + 2;
         }
 
+        for (int j = 0; j < 5; j++) {
+            System.out.println(j);
+            System.out.println("for-j 기능 추가");
+        }
+
         System.out.println("hello github");
         for (int j = 0; j < 10; j++) {
             System.out.print(j + ",");
