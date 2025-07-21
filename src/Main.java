@@ -44,5 +44,9 @@ public class Main {
         System.out.println("*****************************");
 
 
+        System.out.println("-------------------------");
+        System.out.println("브랜치 안따고 마스터에서 push");
+        System.out.println("-------------------------");
+
     }
 }
