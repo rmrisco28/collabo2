@@ -43,6 +43,10 @@ public class Main {
         System.out.println("마스터에서 브랜치 안따고 실수해보기");
         System.out.println("*****************************");
 
+        System.out.println("commit test2");
+        System.out.println(" new branch");
+        System.out.println("hahahoho");
+
 
         System.out.println("-------------------------");
         System.out.println("브랜치 안따고 마스터에서 push");
