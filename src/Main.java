@@ -23,5 +23,12 @@ public class Main {
             System.out.print(j + ",");
         }
 
+        int e = 1;
+        while (e < 10) {
+            System.out.println(e);
+            e = e + 2;
+        }
+
+
     }
 }
